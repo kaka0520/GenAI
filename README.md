@@ -19,6 +19,7 @@ set OLLAMA_MAX_LOADED_MODELS=(Number)
 
 5. check models are running:
 ollama ps
+![alt text](./images/image4.png)
 
 
 Screenshot:
